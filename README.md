@@ -6,6 +6,8 @@ Schematics: <br/>
 
 PCB Design: <br/>
 <img width="493" alt="PCB" src="https://github.com/user-attachments/assets/9f52979e-02f3-4788-8ee3-9626ba56bce7" />
+
+3D view: <br/>
 ![image](https://github.com/user-attachments/assets/5e2221a0-f7f2-4c7d-869b-a7ebb07ac34c)
 
 Designed using KiCad 8. 
