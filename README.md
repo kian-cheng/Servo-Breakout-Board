@@ -1,5 +1,6 @@
 # Servo-Breakout-Board
 Servo Breakout board separating power and signal supporting up to four channels. Suitable for model rockets and other applications that require the routing of servo cable from another board. 
+This repository comprises the Gerber files to manufacture the PCB and KiCad Project files for learning and modifying. 
 
 Schematics: <br/>
 <img width="370" alt="SCH" src="https://github.com/user-attachments/assets/a6bf65a1-bdb4-4e82-af02-ac1a3a90aaab" />
